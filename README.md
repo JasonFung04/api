@@ -1,5 +1,5 @@
 # api
-##下載venv.zip 文件 和 test4.py
+## 下載venv.zip 文件 和 test4.py
 
 ## 解壓venv，使用 source venv/bin/avtivate 打開虛擬環境。
 ## 運行test4.py，激活api
